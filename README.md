@@ -1,23 +1,90 @@
 <h1 align="center">Hi 👋, I'm Mrunal Vishnu Khanke</h1>
 <h3 align="center">A passionate Full Stack Developer, UI/UX Designer and upskilling Python from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunalkhanke&label=Profile%20views&color=0e75b6&style=flat" alt="mrunalkhanke" /> </p>
+- 📬 **Email** - [mrunalkhanke7@gmail.com](mailto:mrunalkhanke7@gmail.com)
+- 🤝 **LinkedIn** - [https://www.linkedin.com/in/mrunal-khanke/](https://www.linkedin.com/in/rebeccashoptaw/)
+- 📄 **Resume** - [Mrunal_Khanke_Resume.pdf](https://drive.google.com/file/d/1QAzReAekBiNgi4KXdeQYrJkE2ta6smm3/view?usp=drive_link)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunalkhanke" alt="mrunalkhanke" /></a> </p>
+I'm a big believer in:
+- ✨ **Clean, DRY code** - easy to read, easy to update
+- 🧩 **Modularity** - write it once, use it 800 times
+- ✅ **Maintainable code** - no hacky workarounds, find a solution that makes sense and will last
+- ✉️ **Clear communication** - the only way things get done
 
-- 🌱 I’m currently learning **Frameworks , UI/UX , Python**
+My latest OL contributions are [here](https://github.com/internetarchive/openlibrary/issues?q=author%3Arebecca-shoptaw), and my recent personal projects are featured below.
 
-- 📫 How to reach me **mrunalkhanke7@gmail.com**
+## Tech Stack 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrunal-khanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrunal-khanke" height="30" width="40" /></a>
-<a href="https://instagram.com/mrunalkhanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrunalkhanke" height="30" width="40" /></a>
-<a href="https://www.behance.net/mrunalkhanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrunalkhanke" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrunalkhanke7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrunalkhanke7" height="30" width="40" /></a>
-</p>
+**Primary Tech Stack**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![React][React-icon]][React-url] [![Typescript][TS-icon]][TS-url]  [![Javascript][JS-icon]][JS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunalkhanke&show_icons=true&locale=en&layout=compact" alt="mrunalkhanke" /></p>
+**With React**
+
+[![Node.js][Node-icon]][Node-url] [![Next.js][Next-icon]][Next-url] [![Vercel][Vercel-icon]][Vercel-url] [![Vite][Vite-icon]][Vite-url] 
+
+**Mobile**
+
+[![React Native][RN-icon]][RN-url] [![Swift][Swift-icon]][Swift-url] 
+
+**Design & Styling**
+
+[![Tailwind][Tailwind-icon]][Tailwind-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url] 
+
+**Testing & Containerization**
+
+[![Jest][Jest-icon]][Jest-url] [![Docker][Docker-icon]][Docker-url] 
+
+## Personal Project Library
+|     | About |  Repo | Live |
+| --------------- | ------- | -------| ------- |
+| **Portfolio**  | Responsive portfolio site with on-scroll animations and other fun stylistic touches. 📂🌹 |  [x](https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io)   | [x](https://rebeccashoptaw.dev/)     |
+| **Open Editions**  | Aesthetically pleasing audiobook player designed to mimic the feeling of reading a physical book. 📖✨| [x](https://github.com/rebecca-shoptaw/open-editions)   | [x](https://rebeccashoptaw.dev/open-editions)     |
+| **Triolingo**   | Duolingo look-alike to help middle schoolers practice vocab. 🐱📚| [x](https://github.com/rebecca-shoptaw/triolingo)   | [x](https://rebeccashoptaw.dev/triolingo)     |
+| **Cat Band**  | An all-cat jazz band. 🎷🐈‍⬛ | [x](https://github.com/rebecca-shoptaw/cat-band)   | [x](https://rebeccashoptaw.dev/cat-band)     |
+| **CalmTube**  | Minimalist and distraction-free YouTube redesign, built with the YouTube Data API. ☁️🖥️  | [x](https://github.com/rebecca-shoptaw/calmtube)   | [x](https://rebeccashoptaw.dev/calmtube)     |
+| **Pomodoro**  | A stylish and customizable pomodoro study timer with light/dark and minimal modes. 🍅⏲️ | [x](https://github.com/rebecca-shoptaw/pomodoro)   | [x](https://rebeccashoptaw.dev/pomodoro)     |
+| **Ask Oscar Wilde**  | Magic 8 ball style site where Oscar Wilde quotes appear in response to user predicaments. 🐦‍⬛🥂 | [x](https://github.com/rebecca-shoptaw/ask-oscar-wilde)   | [x](https://rebeccashoptaw.dev/ask-oscar-wilde)     |
+| **Deco Calculator**  | Working calculator for all your art deco calculation needs. ➗🔸| [x](https://github.com/rebecca-shoptaw/deco-calculator)   | [x](https://rebeccashoptaw.dev/deco-calculator)     |
+| **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
+| **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
+
+## Contact
+- 📬 **Email** - [rebecca@rebeccashoptaw.dev](mailto:rebecca@rebeccashoptaw.dev)
+- 🤝 **LinkedIn** - [/in/rebeccashoptaw/](https://www.linkedin.com/in/rebeccashoptaw/)
+- 📄 **Resume** - [Rebecca_Shoptaw_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
+
+
+<!-- Links and Icons --> 
+[React-icon]: https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[JS-icon]: https://img.shields.io/badge/-Javscript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TS-icon]: https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
+[TS-url]: https://www.typescriptlang.org/
+[HTML-icon]: https://img.shields.io/badge/-HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
+[HTML-url]: https://www.w3schools.com/html/
+[CSS-icon]: https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
+[CSS-url]: https://www.w3schools.com/css/
+[Node-icon]: https://img.shields.io/badge/-NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933
+[Node-url]: https://nodejs.org/
+[Next-icon]: https://img.shields.io/badge/-NextJS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff
+[Next-url]: https://nextjs.org/
+[Vercel-icon]: https://img.shields.io/badge/-Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=ffffff
+[Vercel-url]: https://vercel.com/
+[Vite-icon]: https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
+[Vite-url]: https://vitejs.dev/
+[RN-icon]: https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[RN-url]: https://reactnative.dev/
+[Swift-icon]: https://img.shields.io/badge/-Swift-20232A?style=for-the-badge&logo=swift&logoColor=F05138
+[Swift-url]: https://www.swift.org/
+[Tailwind-icon]: https://img.shields.io/badge/-TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4
+[Tailwind-url]: https://tailwindcss.com/
+[SASS-icon]: https://img.shields.io/badge/-Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699
+[SASS-url]: https://sass-lang.com/
+[GSAP-icon]: https://img.shields.io/badge/-GSAP-20232A?style=for-the-badge&logo=greensock&logoColor=88CE02
+[GSAP-url]: https://gsap.com/
+[Jest-icon]: https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=jest&logoColor=C21325
+[Jest-url]: https://jestjs.io/
+[Docker-icon]: https://img.shields.io/badge/-Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED
+[Docker-url]: https://www.docker.com/
