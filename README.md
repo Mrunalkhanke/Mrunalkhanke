@@ -4,6 +4,7 @@
 - 📬 **Email** - [mrunalkhanke7@gmail.com](mailto:mrunalkhanke7@gmail.com)
 - 🤝 **LinkedIn** - [https://www.linkedin.com/in/mrunal-khanke/](https://www.linkedin.com/in/rebeccashoptaw/)
 - 📄 **Resume** - [Mrunal_Khanke_Resume.pdf](https://drive.google.com/file/d/1QAzReAekBiNgi4KXdeQYrJkE2ta6smm3/view?usp=drive_link)
+- 🌱 **Behance** - [Design Portfolio](www.behance.net/mrunalkhanke)
 
 I'm a big believer in:
 - ✨ **Clean, DRY code** - easy to read, easy to update
@@ -36,6 +37,11 @@ I'm a big believer in:
 | **BuyZapp**  | Online Shopping Application , where user can try products virtually before buying them  ✨| [Link](https://github.com/Mrunalkhanke/BuyZap)  
 | **Sign Language Detection**   | The system is designed to recognize signs with 70-80% accuracy in various environments, facilitating communication for the deaf community and aiding learners in practicing sign language. 🐱📚| [Link](https://github.com/Mrunalkhanke/Sign-Language-Detection-) 
 | **Fintech**   | his application is designed to empower users with insights and knowledge about personal finance. 📚| [Link](https://github.com/Mrunalkhanke/Financial-Literacy-web-application-FIN-TECH-) 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunalkhanke&show_icons=true&locale=en&layout=compact" alt="mrunalkhanke" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunalkhanke&" alt="mrunalkhanke" /></p>
+
 
 
 
