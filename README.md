@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mrunal Khanke 👋
 
-I'm a Final Year CSE Undergrad with a passion for:
+I'm a Final Year CSE Undergrad 
 
 - Software Development
 - Coding & Problem Solving
